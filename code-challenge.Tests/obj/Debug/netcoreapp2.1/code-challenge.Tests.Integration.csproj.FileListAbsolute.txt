@@ -1,0 +1,21 @@
+c:\Users\redgo\Downloads\sr-code-challenge-dotnet\code-challenge.Tests\bin\Debug\netcoreapp2.1\appsettings.Development.json
+c:\Users\redgo\Downloads\sr-code-challenge-dotnet\code-challenge.Tests\bin\Debug\netcoreapp2.1\appsettings.json
+c:\Users\redgo\Downloads\sr-code-challenge-dotnet\code-challenge.Tests\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+c:\Users\redgo\Downloads\sr-code-challenge-dotnet\code-challenge.Tests\bin\Debug\netcoreapp2.1\resources\EmployeeSeedData.json
+c:\Users\redgo\Downloads\sr-code-challenge-dotnet\code-challenge.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Users\redgo\Downloads\sr-code-challenge-dotnet\code-challenge.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Users\redgo\Downloads\sr-code-challenge-dotnet\code-challenge.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Users\redgo\Downloads\sr-code-challenge-dotnet\code-challenge.Tests\bin\Debug\netcoreapp2.1\code-challenge.Tests.Integration.deps.json
+c:\Users\redgo\Downloads\sr-code-challenge-dotnet\code-challenge.Tests\bin\Debug\netcoreapp2.1\code-challenge.Tests.Integration.runtimeconfig.json
+c:\Users\redgo\Downloads\sr-code-challenge-dotnet\code-challenge.Tests\bin\Debug\netcoreapp2.1\code-challenge.Tests.Integration.runtimeconfig.dev.json
+c:\Users\redgo\Downloads\sr-code-challenge-dotnet\code-challenge.Tests\bin\Debug\netcoreapp2.1\code-challenge.Tests.Integration.dll
+c:\Users\redgo\Downloads\sr-code-challenge-dotnet\code-challenge.Tests\bin\Debug\netcoreapp2.1\code-challenge.Tests.Integration.pdb
+c:\Users\redgo\Downloads\sr-code-challenge-dotnet\code-challenge.Tests\bin\Debug\netcoreapp2.1\code-challenge.dll
+c:\Users\redgo\Downloads\sr-code-challenge-dotnet\code-challenge.Tests\bin\Debug\netcoreapp2.1\code-challenge.pdb
+c:\Users\redgo\Downloads\sr-code-challenge-dotnet\code-challenge.Tests\obj\Debug\netcoreapp2.1\code-challenge.Tests.Integration.csprojAssemblyReference.cache
+c:\Users\redgo\Downloads\sr-code-challenge-dotnet\code-challenge.Tests\obj\Debug\netcoreapp2.1\code-challenge.Tests.Integration.AssemblyInfoInputs.cache
+c:\Users\redgo\Downloads\sr-code-challenge-dotnet\code-challenge.Tests\obj\Debug\netcoreapp2.1\code-challenge.Tests.Integration.AssemblyInfo.cs
+c:\Users\redgo\Downloads\sr-code-challenge-dotnet\code-challenge.Tests\obj\Debug\netcoreapp2.1\code-challenge.Tests.Integration.csproj.CopyComplete
+c:\Users\redgo\Downloads\sr-code-challenge-dotnet\code-challenge.Tests\obj\Debug\netcoreapp2.1\code-challenge.Tests.Integration.dll
+c:\Users\redgo\Downloads\sr-code-challenge-dotnet\code-challenge.Tests\obj\Debug\netcoreapp2.1\code-challenge.Tests.Integration.pdb
+c:\Users\redgo\Downloads\sr-code-challenge-dotnet\code-challenge.Tests\bin\Debug\netcoreapp2.1\postman\Code Challenge.postman_collection.json

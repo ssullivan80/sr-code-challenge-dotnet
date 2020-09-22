@@ -41,5 +41,16 @@ namespace challenge.Repositories
         {
             return _employeeContext.Remove(employee).Entity;
         }
+
+        public Compensation GetCompensationByEmployeeId(string id)
+        {
+            return _employeeContext.Compensations.SingleOrDefault(e => e.Employee.EmployeeId == id);
+        }
+
+        public Compensation AddCompensation(Compensation compensation)
+        {
+            _employeeContext.Compensations.Add(compensation);
+            return compensation;
+        }
     }
 }

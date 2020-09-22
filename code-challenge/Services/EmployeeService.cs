@@ -19,6 +19,17 @@ namespace challenge.Services
             _logger = logger;
         }
 
+        public Compensation AddCompensation(Compensation compensation)
+        {
+            if(compensation != null)
+            {
+                _employeeRepository.AddCompensation(compensation);
+                _employeeRepository.SaveAsync().Wait();
+            }
+
+            return compensation;
+        }
+
         public Employee Create(Employee employee)
         {
             if(employee != null)
@@ -37,6 +48,16 @@ namespace challenge.Services
                 return _employeeRepository.GetById(id);
             }
 
+            return null;
+        }
+
+        public Compensation GetCompensationByEmployeeId(string id)
+        {
+             if(!String.IsNullOrEmpty(id))
+            {
+                return _employeeRepository.GetCompensationByEmployeeId(id);
+            }            
+             
             return null;
         }
 

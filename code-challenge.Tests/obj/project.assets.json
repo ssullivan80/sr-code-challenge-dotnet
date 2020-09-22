@@ -14361,7 +14361,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\redgo\\.nuget\\packages\\": {}
+    "C:\\Users\\redgo\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -14372,6 +14373,9 @@
       "packagesPath": "C:\\Users\\redgo\\.nuget\\packages\\",
       "outputPath": "c:\\Users\\redgo\\Downloads\\sr-code-challenge-dotnet\\code-challenge.Tests\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\redgo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],

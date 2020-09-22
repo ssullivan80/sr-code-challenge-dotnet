@@ -13,7 +13,7 @@ namespace challenge.Controllers
     public class EmployeeController : Controller
     {
         private readonly ILogger _logger;
-        private readonly IEmployeeService _employeeService;
+        private readonly IEmployeeService _employeeService;        
 
         public EmployeeController(ILogger<EmployeeController> logger, IEmployeeService employeeService)
         {
@@ -95,28 +95,7 @@ namespace challenge.Controllers
                 employee.DirectReports = referencedEmployees;
             }
             return employee;
-        }
-    
-       /* [HttpGet("{id}/compensation", Name = "getEmployeeCompensation")]
-        public IActionResult GetEmployeeCompensation(String id)
-        {
-            _logger.LogDebug($"Received employee compensation get request for '{id}'");
-
-            var employee = _employeeService.GetById(id);
-
-            if (employee == null)
-                return NotFound();
-        }
-
-        [HttpPost("{id}/compensation", Name = "setEmployeeCompensation")]
-        public IActionResult SetEmployeeCompensation(String id, [FromBody]Compensation compensation)
-        {
-            _logger.LogDebug($"Received employee post compensation request for '{id}'");
-
-            var employee = _employeeService.GetById(id);
-
-            if (employee == null)
-                return NotFound();
-        }*/
+        }   
+       
     }
 }

@@ -11,5 +11,9 @@ namespace challenge.Services
         Employee GetById(String id);
         Employee Create(Employee employee);
         Employee Replace(Employee originalEmployee, Employee newEmployee);
+
+        Compensation GetCompensationByEmployeeId(String id);
+
+        Compensation AddCompensation(Compensation compensation);
     }
 }

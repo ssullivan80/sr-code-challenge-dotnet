@@ -12,3 +12,4 @@ C:\Users\redgo\Downloads\sr-code-challenge-dotnet\code-challenge\obj\Debug\netco
 C:\Users\redgo\Downloads\sr-code-challenge-dotnet\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.AssemblyInfo.cs
 C:\Users\redgo\Downloads\sr-code-challenge-dotnet\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.dll
 C:\Users\redgo\Downloads\sr-code-challenge-dotnet\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.pdb
+c:\Users\redgo\Downloads\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\postman\Code Challenge.postman_collection.json
